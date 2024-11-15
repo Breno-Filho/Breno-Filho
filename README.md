@@ -1,5 +1,5 @@
 # Hello, welcome to my GitHub profile. Hope you enjoy it!
-    My name is Breno and I'm currently pursuing a bachelor's degree in Informations Systems.
+My name is Breno, and I'm currently pursuing a bachelor's degree in Information Systems.
 
 ## Social Medias
 </div>
