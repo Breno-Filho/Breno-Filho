@@ -14,10 +14,10 @@
 [![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=MySQL&logoColor)](https://dev.mysql.com/doc/)
 
 ## Github Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Breno-Filho&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-<div align="left">
-  <a href="https://github.com/Breno-Filho">
-  <img height="180em" width="420px" src="https://github-readme-stats.vercel.app/api?username=Breno-Filho&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Filho&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Breno-Filho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
     
 
